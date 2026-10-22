@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="700" viewBox="0 0 880 700">
+  <rect x="2" y="2" width="876" height="696" rx="14" fill="#f6f8fa" stroke="#d0d7de" stroke-width="2"/>
+
+  <text x="44" y="58" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" font-weight="700" fill="#1f2328">Career Timeline</text>
+
+  <!-- spine -->
+  <line x1="196" y1="92" x2="196" y2="616" stroke="#b6bfc9" stroke-width="3"/>
+
+  <!-- 2026 Microsoft -->
+  <text x="168" y="122" text-anchor="end" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#1f2328">2026 — Now</text>
+  <circle cx="196" cy="115" r="10" fill="#05a6f0" stroke="#ffffff" stroke-width="3"/>
+  <text x="228" y="112" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#1f2328">Microsoft (CoreAI)</text>
+  <text x="228" y="136" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.5" fill="#57606a">Software Development Engineer 2 &#183; Redmond, WA</text>
+  <text x="228" y="160" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" fill="#57606a">1ES engineering platform team</text>
+
+  <!-- 2025 Amazon -->
+  <text x="168" y="226" text-anchor="end" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#1f2328">2025 — 2026</text>
+  <circle cx="196" cy="219" r="10" fill="#232f3e" stroke="#ffffff" stroke-width="3"/>
+  <text x="228" y="216" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#1f2328">Amazon (PxT)</text>
+  <text x="228" y="240" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.5" fill="#57606a">Software Development Engineer 2 &#183; Seattle, WA</text>
+  <text x="228" y="264" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" fill="#57606a">Event-stream LLM chatbot &#8212; 10M+ daily requests, 64% latency cut</text>
+
+  <!-- 2023 AWS -->
+  <text x="168" y="330" text-anchor="end" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#1f2328">2023 — 2025</text>
+  <circle cx="196" cy="323" r="10" fill="#ff9900" stroke="#ffffff" stroke-width="3"/>
+  <text x="228" y="320" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#1f2328">Amazon Web Services</text>
+  <text x="228" y="344" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.5" fill="#57606a">Software Development Engineer &#183; Seattle, WA</text>
+  <text x="228" y="368" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" fill="#57606a">Hardware intake platform &#8212; 200+ data centers, $2B+ waste reduction</text>
+
+  <!-- 2023 Education -->
+  <text x="168" y="434" text-anchor="end" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#1f2328">2023</text>
+  <circle cx="196" cy="427" r="10" fill="#8250df" stroke="#ffffff" stroke-width="3"/>
+  <text x="228" y="424" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#1f2328">University of Florida</text>
+  <text x="228" y="448" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.5" fill="#57606a">MS, Computer Science &#183; GPA 3.92 / 4.0</text>
+  <text x="228" y="472" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" fill="#57606a">Winner, UF AI Days Hackathon 2022 (NVIDIA)</text>
+
+  <!-- 2022 AWS Intern -->
+  <text x="168" y="530" text-anchor="end" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#1f2328">2022</text>
+  <circle cx="196" cy="523" r="10" fill="#8796a5" stroke="#ffffff" stroke-width="3"/>
+  <text x="228" y="520" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#1f2328">Amazon Web Services</text>
+  <text x="228" y="544" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.5" fill="#57606a">Software Development Engineer Intern &#183; Seattle, WA</text>
+  <text x="228" y="568" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" fill="#57606a">Legacy-to-microservices migration automation &#183; AWS CDK</text>
+
+  <!-- 2019 Amagi -->
+  <text x="168" y="626" text-anchor="end" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#1f2328">2019 — 2021</text>
+  <circle cx="196" cy="619" r="10" fill="#1b1f24" stroke="#ffffff" stroke-width="3"/>
+  <text x="228" y="616" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#1f2328">Amagi Media Labs</text>
+  <text x="228" y="640" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.5" fill="#57606a">Software Engineer, Enterprise Cloud Engineering &#183; Bangalore, India</text>
+  <text x="228" y="664" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" fill="#57606a">Cloudport broadcast platform &#8212; 300+ global customers</text>
+</svg>
