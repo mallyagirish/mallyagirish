@@ -2,7 +2,7 @@
 
 **Software Development Engineer 2 · Microsoft (CoreAI)** — Bellevue, WA
 
-[LinkedIn](https://www.linkedin.com/in/girish-mallya-013345152/) · [Email](mailto:girishm60@gmail.com) · [Google Scholar](https://scholar.google.com/citations?user=Vjjz2ncAAAAJ&hl=en) · [📄 Resume](https://github.com/girishmallya123/girishmallya123/blob/master/resume/Girish_Mallya_Resume_2026.pdf)
+[LinkedIn](https://www.linkedin.com/in/girish-mallya-013345152/) · [Email](mailto:girishm60@gmail.com) · [Google Scholar](https://scholar.google.com/citations?user=Vjjz2ncAAAAJ&hl=en) · [📄 Resume](https://github.com/mallyagirish/mallyagirish/blob/master/resume/Girish_Mallya_Resume_2026.pdf)
 
 ## About
 
@@ -29,7 +29,7 @@ Software engineer with 6+ years across Microsoft, Amazon, and AWS, building dist
 
 ## 🔭 Research & Open Source
 
-- 📊 **[Misconfigured by Default](https://github.com/girishmallya123/k8s-misconfig-study)** — empirical study of Kubernetes misconfigurations across 16,000+ manifests (151 Helm charts, 60 GitHub repos): prevalence of insecure defaults, and an audit of how well kube-linter, Checkov, Polaris, and kubeaudit actually catch them.
+- 📊 **[Misconfigured by Default](https://github.com/mallyagirish/k8s-misconfig-study)** — empirical study of Kubernetes misconfigurations across 16,000+ manifests (151 Helm charts, 60 GitHub repos): prevalence of insecure defaults, and an audit of how well kube-linter, Checkov, Polaris, and kubeaudit actually catch them.
 - 🛠️ New `no-image-digest` check for [kube-linter](https://github.com/stackrox/kube-linter/pull/1281); new Secrets check CKV_K8S_161 for [Checkov](https://github.com/bridgecrewio/checkov/pull/7764).
 
 ## 📝 Publications
