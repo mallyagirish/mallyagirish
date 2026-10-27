@@ -36,7 +36,7 @@ Software engineer with 6+ years across Microsoft, Amazon, and AWS, building dist
 ## 🔭 Research & Open Source
 
 - 📊 **[Misconfigured by Default](https://github.com/mallyagirish/k8s-misconfig-study)** — empirical study of Kubernetes misconfigurations across 16,000+ manifests (151 Helm charts, 60 GitHub repos): prevalence of insecure defaults, and an audit of how well kube-linter, Checkov, Polaris, and kubeaudit actually catch them.
-- 🛠️ Open PRs: new `no-image-digest` check for kube-linter ([#1281](https://github.com/stackrox/kube-linter/pull/1281)); new Secrets check CKV_K8S_161 for Checkov ([#7764](https://github.com/bridgecrewio/checkov/pull/7764)).
+- 🛠️ **Merged upstream:** 5 rule fixes in Kubescape regolibrary ([#859](https://github.com/kubescape/regolibrary/pull/859), [#861](https://github.com/kubescape/regolibrary/pull/861), [#863](https://github.com/kubescape/regolibrary/pull/863), [#865](https://github.com/kubescape/regolibrary/pull/865), [#867](https://github.com/kubescape/regolibrary/pull/867)) and a semaphore-leak fix in Argo Workflows ([#17302](https://github.com/argoproj/argo-workflows/pull/17302)). **Open PRs:** new `no-image-digest` and `no-seccomp-profile` checks for kube-linter ([#1281](https://github.com/stackrox/kube-linter/pull/1281), [#1285](https://github.com/stackrox/kube-linter/pull/1285)); new Secrets check CKV_K8S_161 for Checkov ([#7764](https://github.com/bridgecrewio/checkov/pull/7764)); security-context PRs for KServe, HAMi, and vLLM production-stack.
 
 ## 📝 Publications
 
