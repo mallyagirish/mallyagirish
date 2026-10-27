@@ -36,7 +36,7 @@ Software engineer with 6+ years across Microsoft, Amazon, and AWS, building dist
 ## 🔭 Research & Open Source
 
 - 📊 **[Misconfigured by Default](https://github.com/mallyagirish/k8s-misconfig-study)** — empirical study of Kubernetes misconfigurations across 16,000+ manifests (151 Helm charts, 60 GitHub repos): prevalence of insecure defaults, and an audit of how well kube-linter, Checkov, Polaris, and kubeaudit actually catch them.
-- 🛠️ New `no-image-digest` check for [kube-linter](https://github.com/stackrox/kube-linter/pull/1281); new Secrets check CKV_K8S_161 for [Checkov](https://github.com/bridgecrewio/checkov/pull/7764).
+- 🛠️ Open PRs: new `no-image-digest` check for kube-linter ([#1281](https://github.com/stackrox/kube-linter/pull/1281)); new Secrets check CKV_K8S_161 for Checkov ([#7764](https://github.com/bridgecrewio/checkov/pull/7764)).
 
 ## 📝 Publications
 
